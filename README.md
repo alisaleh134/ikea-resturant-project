@@ -20,7 +20,7 @@ Setup Instructions
 2. Open the index.html file in a browser.
 3. Ensure you have an internet connection to fetch API data.
 Live Demo
-[link here when i host it]
+[https://alisaleh134.github.io/ikea-resturant-project/]
 
 Author
 Ali Saleh
